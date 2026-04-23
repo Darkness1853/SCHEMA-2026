@@ -4,9 +4,11 @@
 
 **Скачивание приложения:**
 
-- [Cyclone](Install/cyclone-21.1.1.850.qdz)  - файл поддержки для семейства микросхем Cyclone IV E
-- [ModelSim](Install/ModelSimSetup-18.1.0.625-windows.exe) - Симулятор для отладки кода без платы
-- [QuartusLite](Install/QuartusLiteSetup-21.1.1.850-windows.exe) - Среда разработки для FPGA
+- **Cyclone**  - файл поддержки для семейства микросхем Cyclone IV E
+- **ModelSim** - Симулятор для отладки кода без платы
+- **QuartusLite** - Среда разработки для FPGA
+
+По ссылке на [**диск**](https://cloud.mail.ru/public/3xVJ/feHaX956V)
 
 * Скачаны с сайта [Altera](https://www.altera.com/downloads/simulation-tools/modelsim-fpgas-standard-edition-software-version-20-1-1)
 ---
